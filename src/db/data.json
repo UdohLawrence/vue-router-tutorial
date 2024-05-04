@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Toyota Camry",
+        "price": 5000,
+        "year": 2008
+    },
+    {
+        "id": 2,
+        "name": "Honda Accord",
+        "price": 17000,
+        "year": 2018
+    },
+    {
+        "id": 3,
+        "name": "Nissan Almeria",
+        "price": 13500,
+        "year": 2012
+    },
+    {
+        "id": 4,
+        "name": "Mercedes",
+        "price": 50000,
+        "year": 2022
+    },
+    {
+        "id": 5,
+        "name": "Volkswagen",
+        "price": 15000,
+        "year": 2014
+    },
+    {
+        "id": 6,
+        "name": "Ford Explorer",
+        "price": 1500,
+        "year": 1998
+    },
+    {
+        "id": 7,
+        "name": "BMW",
+        "price": 18000,
+        "year": 2010
+    }
+]
